@@ -12,7 +12,6 @@ This repo exists solely to speak "Hello World" in every language I touch.
 - ✅ C#
 - ✅ Assembly (x86_64, Windows)
 - ✅ Brainfuck
-- ✅ HTML + CSS (They are not programming languages, but still)
 
 ## Why?
 
