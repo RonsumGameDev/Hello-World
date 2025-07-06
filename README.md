@@ -12,6 +12,7 @@ This repo exists solely to speak "Hello World" in every language I touch.
 - ✅ C#
 - ✅ Assembly (x86_64, Windows)
 - ✅ Brainfuck
+- ✅ Bash
 
 ## Why?
 
